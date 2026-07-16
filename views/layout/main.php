@@ -9,7 +9,7 @@
 </head>
 <body>
     <header class="header">
-        <h1><span>MGLSI</span> NEWS <small style="font-size: 14px;">v2 MVC</small></h1>
+        <h1><span>M1IABD</span> NEWS <small style="font-size: 14px;">version 2 avec MVC</small></h1>
     </header>
     
     <nav class="nav">
@@ -40,7 +40,7 @@
     </div>
     
     <footer class="footer">
-        <p>Copyright © DGI 2019 - Version MVC</p>
+        <p>Copyright © DGI 2026 - Version MVC</p>
     </footer>
     
     <script src="/mglsi-news-v2/public/js/script.js"></script>
